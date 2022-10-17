@@ -1,0 +1,1 @@
+Sonarcube  https://docs.sonarqube.org/latest/setup/sonarqube-on-kubernetes/
